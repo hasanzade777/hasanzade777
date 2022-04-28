@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hasanzade777
-- 👀 I’m interested in ... Backnend Developing
+- 👀 I’m interested in ... Backend Developing
 - 🌱 I’m currently learning ... Java Spring
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
